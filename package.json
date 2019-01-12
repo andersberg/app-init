@@ -1,6 +1,6 @@
 {
   "name": "app-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module to test global commands.",
   "main": "index.js",
   "scripts": {
