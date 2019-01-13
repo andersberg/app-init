@@ -1,5 +1,5 @@
 {
-  "name": "app-init",
+  "name": "@andersberg/app-init",
   "version": "1.0.1",
   "description": "A simple module to test global commands.",
   "main": "index.js",
@@ -7,8 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "app-init": "bin/index.js"
+    "app-init": "./bin/index.js"
   },
   "author": "Anders Berg <andersberg86@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/andersberg/app-init.git"
+  },
+  "homepage": "https://bitbucket.org/andersberg/app-init#readme"
 }
